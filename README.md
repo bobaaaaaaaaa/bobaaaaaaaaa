@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bobaaaaaaaaa
 - 👀 I’m interested in learning everything about being a Full stack Web developer
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML and CSS and will soon hop on Tailwind/Bootstrap and Javascript
 - 📫 How to reach me owoeyeboba@gmail.com
 - A Fun fact about me is I enjoy listening to music while coding and learning
 
